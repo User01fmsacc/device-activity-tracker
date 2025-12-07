@@ -14,6 +14,12 @@ This project implements the research from the paper **"Careless Whisper: Exploit
 
 **Security implications:** This demonstrates a significant privacy vulnerability in messaging apps that can be exploited for surveillance.
 
+## Example
+
+![WhatsApp Activity Tracker Interface](example.png)
+
+The web interface shows real-time RTT measurements, device state detection, and activity patterns.
+
 ## Installation
 
 ```bash
